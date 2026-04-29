@@ -7,7 +7,7 @@ The system is built around the ATmega328p architecture, utilizing a standard joy
 
 | Component | Qty | Description / Specifications |
 | :--- | :---: | :--- |
-| **Arduino Uno with ATmega328p** | 1 | Main component of the project. It can be found inside of an Arduino Uno. Handles logic, processing and ADC readings. |
+| **Arduino Uno with ATmega328p** | 1 | Main component of the project. Handles logic, processing and ADC readings. |
 | **Joystick X-Y Module** | 1 | Dual-axis analog potentiometers with a tactile push-button (used for directional control and kill-switch). |
 
 ## ⚙️ Actuation & Drive System
