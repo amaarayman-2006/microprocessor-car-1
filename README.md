@@ -4,11 +4,51 @@
 ![AVR](https://img.shields.io/badge/Architecture-AVR-%23005A9C.svg?style=for-the-badge)
 ![GitHub License](https://img.shields.io/github/license/amaarayman-2006/microprocessor-car-1?style=for-the-badge&color=blue)
 
-This project is a part of "Principles of Microprocessors" course in the study plan for *Electric Power and Machines (EPM)* engineering students at Faculty of Engineering, Alexandria University.
+This project is a part of "Principles of Microprocessors" course in the study plan for **Electric Power and Machines (EPM)** engineering students at Faculty of Engineering, Alexandria University.
 
 This project is about making a functional car with a joystick wired controller using ATmega328P and applying our own drivers.
 
-# Teammates
+## Hardware
+
+You can check the hardware components list [**here**](Hardware%20Components.md)
+
+## Drivers Software
+
+### MCAL Layer Modules :
+    |── GPIO
+          |── GPIO_interface.h
+          |── GPIO_private.h
+          |── GPIO_config.h
+          └── GPIO_program.c
+
+    |── ADC
+          |── interface.h
+          |── private.h
+          |── types.h
+          └── program.c
+          
+    └── Global Files
+          |── STD_Types.h
+          └── BIT_MATH.h
+
+### HAL Layer Modules :
+    |── Joystick
+          |── JOYSTICK.h
+          └── JOYSTICK.c
+          
+    |── Motors
+          |── MOTOR.h
+          └── MOTOR.c
+
+    |── Battery
+          |── BATTERY.h
+          └── BATTERY.c
+
+    └── main.c
+
+All the drivers modules and files can be accessed [**here**](Drivers%20Files%20Main/XC8Application2/XC8Application2)
+
+## Teammates
 1. Amaar Ayman
 2. Ahmed Nagy
 3. Omar Wael
