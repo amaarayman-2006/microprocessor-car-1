@@ -8,9 +8,9 @@ This project is a part of "Principles of Microprocessors" course in the study pl
 
 This project is about making a functional car with a joystick wired controller using ATmega328P and applying our own drivers.
 
-## Hardware
+## Objective
 
-You can check the hardware components list [**here**](Hardware%20Components.md)
+Our objective was to build a functional car that can be controlled using wired joystick. The car also have a battery indicator function that detects if the overall voltage of the batteries drops to a certain level which is 8V as motors can function in voltages between 7:12 VDC.
 
 ## Drivers Software
 
@@ -47,6 +47,10 @@ You can check the hardware components list [**here**](Hardware%20Components.md)
     └── main.c
 
 All the drivers modules and files can be accessed [**here**](Drivers%20Files%20Main/XC8Application2/XC8Application2)
+
+## Hardware
+
+You can check the hardware components list [**here**](Hardware%20Components.md)
 
 ## Teammates
 1. Amaar Ayman
