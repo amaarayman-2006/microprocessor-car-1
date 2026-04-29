@@ -1,8 +1,10 @@
 # Wired Joystick Car Using ATmega328p
-![Arduino Multimeter](https://img.shields.io/badge/Arduino-Uno-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg) ![Version](https://img.shields.io/badge/version-1.0-red.svg)
+![C](https://img.shields.io/badge/Language-C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
+![Microchip](https://img.shields.io/badge/MCU-ATmega328p-%23005151.svg?style=for-the-badge&logo=microchip&logoColor=white)
+![AVR](https://img.shields.io/badge/Architecture-AVR-%23005A9C.svg?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/amaarayman-2006/microprocessor-car-1?style=for-the-badge&color=blue)
 
-# About the project
-This project is actually made for "Principles of Microprocessors" course in the study plan for *Electric Power and Machines (EPM)* engineering students at Faculty of Engineering, Alexandria University.
+This project is a part of "Principles of Microprocessors" course in the study plan for *Electric Power and Machines (EPM)* engineering students at Faculty of Engineering, Alexandria University.
 
 This project is about making a functional car with a joystick wired controller using ATmega328P and applying our own drivers.
 
