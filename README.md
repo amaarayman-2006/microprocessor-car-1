@@ -44,7 +44,7 @@ Our objective was to build a functional car that can be controlled using wired j
           |── BATTERY.h
           └── BATTERY.c
 
-### Application Module :
+### Application Layer Module :
     └── main.c
 
 **N.B :** All the drivers modules and files can be accessed [**here**](Drivers%20Files%20Main/XC8Application2/XC8Application2)
