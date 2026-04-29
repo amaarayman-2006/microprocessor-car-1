@@ -22,10 +22,10 @@ Our objective was to build a functional car that can be controlled using wired j
           └── GPIO_program.c
 
     |── ADC
-          |── interface.h
-          |── private.h
-          |── types.h
-          └── program.c
+          |── ADC_interface.h
+          |── ADC_private.h
+          |── ADC_types.h
+          └── ADC_program.c
           
     └── Global Files
           |── STD_Types.h
