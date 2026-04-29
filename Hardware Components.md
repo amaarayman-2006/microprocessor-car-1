@@ -17,8 +17,8 @@ The drivetrain relies on a dual H-bridge setup to independently control the spee
 | :--- | :---: | :--- |
 | **L298 Motor Driver** | 1 | Dual H-bridge module for driving high-current loads via microcontroller logic. |
 | **DC Geared Motor Dual Shaft 600 rpm with Wheel** | 2 | 600 RPM gear motors providing differential drive to the chassis. |
-| **Robot Chassis** | 1 | Base mechanical frame for mounting motors, electronics, and power supply. |
 | **Metal Castor Wheel** | 1 | Acts as a third wheel in the front of the car. |
+| **Robot Chassis** | 1 | Base mechanical frame for mounting motors, electronics, and power supply. |
 
 ## 🔋 Power Management
 A series-connected lithium-ion pack provides an 11.1V nominal voltage to efficiently power the L298 driver and motors, while the Arduino regulates its own 5V logic.
