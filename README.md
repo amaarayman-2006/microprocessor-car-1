@@ -46,13 +46,15 @@ Our objective was to build a functional car that can be controlled using wired j
 
     └── main.c
 
-All the drivers modules and files can be accessed [**here**](Drivers%20Files%20Main/XC8Application2/XC8Application2)
+**N.B :** All the drivers modules and files can be accessed [**here**](Drivers%20Files%20Main/XC8Application2/XC8Application2)
 
 ## Hardware
 
 You can check the hardware components list [**here**](Hardware%20Components.md)
 
-## Teammates
+<img src="https://sdvelectronica.com.ar/wp-content/uploads/2019/05/ATMEGA328P.jpg" alt="Diagram" width="400">
+
+## Team Members
 1. Amaar Ayman
 2. Ahmed Nagy
 3. Omar Wael
