@@ -10,7 +10,7 @@ This project is about making a functional car with a joystick wired controller u
 
 ## Objective
 
-Our objective was to build a functional car that can be controlled using wired joystick. The car also have a battery indicator function that detects if the overall voltage of the batteries drops to a certain level which is 8V as motors can function in voltages between 7:12 VDC.
+Our objective was to build a functional car that can be controlled using wired joystick. The car also have a battery indicator function that detects if the overall voltage of the batteries drops to a certain level which is 8V as the motors can function in voltages between 7:12 VDC.
 
 ## Drivers Software
 
