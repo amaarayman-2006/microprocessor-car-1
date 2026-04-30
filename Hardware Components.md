@@ -37,4 +37,5 @@ Standard prototyping components for status indication and signal routing.
 | **LEDs** | 2 | Visual status indicators ( Green for POWER ON, Red is when battery voltage is below 8V ). |
 | **Resistors** | Set | Used for LED current-limiting (typically 220Ω - 330Ω) and potential pull-up/down logic. |
 | **Male-to-Male Jumpers** | Set | Used for routing signals across the breadboard and Arduino. |
+| **Female-to-Male Jumbers** | Set | Used for connecting between the joystick module and Arduino. |
 | **Crocodile Jumpers** | Set | Used for temporary, secure connections to battery terminals and motor leads. |
